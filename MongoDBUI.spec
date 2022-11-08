@@ -8,7 +8,7 @@ a = Analysis(
     ['MongoDBUI.py'],
     pathex=[],
     binaries=[],
-    datas=[('C:\\Users\\mail2\\AppData\\Local\\Programs\\Python\\Python37\\Lib\\site-packages\\customtkinter', 'customtkinter/')],
+    datas=[('c:\\users\\mail2\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\customtkinter', 'customtkinter')],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
